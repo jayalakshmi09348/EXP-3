@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | JayaLakshmi P | **Reg. No.:** |26018231 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |16.11.2026 | **Batch / Section:** | |
 
 ---
 
@@ -55,12 +55,8 @@ To control the status of the given lamp by using two-way switches.
 
 *Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="1200" height="1600" alt="WhatsApp Image 2026-11-16 at 10 27 42 PM" src="https://github.com/user-attachments/assets/b975c4bb-dfe3-4d33-b618-8e446d4fa3c4" />
+
 
 ## B. CROSS CONNECTION
 
@@ -74,12 +70,10 @@ To control the status of the given lamp by using two-way switches.
 
 *Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
 
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+
+<img width="1224" height="1432" alt="WhatsApp Image 2026-11-16 at 10 27 41 PM" src="https://github.com/user-attachments/assets/8b82af24-955f-43f7-aee4-7b359a040267" />
+
+
 
 ## SIMULATION USING PROTEUS
 
@@ -87,13 +81,15 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+<img width="955" height="535" alt="Screenshot 2026-11-16 221334" src="https://github.com/user-attachments/assets/a5740528-d01d-4008-b758-61c5cdf0a539" />
+
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="1090" height="703" alt="Screenshot 2026-11-16 221848" src="https://github.com/user-attachments/assets/026bd58a-aca2-4da5-8c54-bf3cd439e442" />
+
 
 **Figure 4:** Proteus simulation – cross connection
 
